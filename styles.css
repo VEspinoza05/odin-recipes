@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+h1,
+.credits{
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lucida Handwriting', 'Brush Script MT', cursive;
+}
+
+#recipe-list{
+    background-color: rgb(84, 255, 87);
+    color: red;
+}
+
+.recipe{
+    background-color: hsl(0, 0%, 52%);
+    font-weight: 800;
+}
+
+.credits{
+    font-family: 'Courier New', 'Lucida Console', monospace;
+}
+
+.source-link{
+    background-color: #00ffd9;
+}
