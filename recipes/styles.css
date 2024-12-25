@@ -1,0 +1,44 @@
+*{
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+h1,
+.title-bg-black,
+#return{
+    color: white;
+    background-color: black;
+    font-family: 'Lucida Handwriting', 'Brush Script MT', cursive;
+}
+
+a,
+#return, 
+.old-style{
+    font-size: 30px;
+    font-family: 'Courier New', 'Lucida Console', monospace;
+}
+
+h1{
+    font-size: 45px;
+    
+}
+
+.return{
+    font-size: 20px;
+}
+
+.list li{
+    background-color: rgb(86, 149, 128);
+}
+
+ul.list{
+    background-color: hsl(0, 100%, 50%);
+}
+
+ol.list{
+    background-color: yellow;
+}
+
+#return{
+    font-weight: bold;
+}
