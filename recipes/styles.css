@@ -19,12 +19,15 @@ a,
 }
 
 h1{
-    font-size: 45px;
-    
+    font-size: 45px;    
 }
 
-.return{
-    font-size: 20px;
+p.old-style{
+    font-weight: lighter;
+}
+
+.old-style.bold-paragraph{
+    font-weight: bold;
 }
 
 .list li{
